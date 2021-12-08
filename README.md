@@ -4,8 +4,6 @@
 
 In this task, it has been created the to-do that enables user to add, update and remove his/her tasks. In addition, it has an admin that has permissions to add, update and remove tasks from any user.
 
-## Requirements specification:
-
 ## User story format:
 
 - Signup: As an anon, I can sign up in the website as the user so that I have permission to add, update and remove my tasks.
@@ -22,6 +20,10 @@ In this task, it has been created the to-do that enables user to add, update and
 - Add Task: As an admin, I can start to add a task to any user so that I can see it on the website and the user can see it also.
 - Update Task: As an admin, I can start to update a task to any user so that I can see it on the website and the user can see it also.
 - Delete Task: As an admin, I can start to remove a task to any user so that I can't see it on the website and the user can't see it also.
+
+## UML
+
+![Untitled%20Diagram.drawio1 img](https://github.com/noorah15/w09d03/blob/main/Untitled%20Diagram.drawio1.png)
 
 In this task, it has been created frontend with React.
 
